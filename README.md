@@ -1,3 +1,7 @@
+📄 [Download the formatted PDF version of this README](./AI_Social_Analytics_Dashboard_README.pdf)
+
+
+
 AI Social Media Analytics Dashboard
 A full-stack web application that performs real-time sentiment and emotion analysis on social media posts for any given topic. Built with a Python/Flask backend and a dynamic, responsive "Synthwave" themed UI.
 

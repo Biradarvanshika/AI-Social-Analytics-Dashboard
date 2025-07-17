@@ -34,12 +34,11 @@ This project showcases a complete **full-stack development cycle**, from backend
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/Biradarvanshika/AI-Social-Analytics-Dashboard.git
 cd AI-Social-Analytics-Dashboard
-
-2. Install the required libraries
+ 2. Install the required libraries
 bash
 Copy
 Edit

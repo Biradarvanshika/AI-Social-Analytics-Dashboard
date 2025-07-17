@@ -73,7 +73,3 @@ Interactive charts and responsive design
 
 Synthwave-themed UI for modern feel
 
-📬 Contact
-Have questions or suggestions?
-Feel free to reach out via GitHub Issues.
-
